@@ -27,6 +27,24 @@
 <img src="https://github.com/lenis03/lenis03/assets/126465887/84d77dff-7ee0-41ee-b9aa-62c668f7cdd2" alt="css" width="60" height="60"/>
 <img src="https://github.com/lenis03/lenis03/assets/126465887/8ef75c6a-a453-46d2-a20d-d62c18c07892" alt="bootstrap" width="60" height="60"/>
 
+# 📊 GitHub Stats :
+
+![](https://github-readme-stats.vercel.app/api?username=lenis03&theme=midnight-purple&hide_border=true&center=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lenis03&theme=midnight-purple&center=true&hide_border=true)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lenis03&theme=midnight-purple&center=true&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=lenis03&theme=radical&no-frame=true&no-bg=false&center=true&margin-w=4)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lenis03&label=Profile%20views&color=fe428e&style=plastic" alt="sama-babaee-web" /></p>
+
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=821FF7&height=120&section=footer"/>
+</a>
 
 
 
