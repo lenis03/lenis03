@@ -39,7 +39,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=lenis03&theme=radical&no-frame=true&no-bg=false&center=true&margin-w=4)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lenis03&label=Profile%20views&color=fe428e&style=plastic" alt="sama-babaee-web" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lenis03&label=Profile%20views&color=fe428e&style=plastic" alt="lenis03" /></p>
 
 
 <a href="#">
