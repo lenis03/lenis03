@@ -16,16 +16,16 @@
 </p>
 
 ## Technologies
-<img src="https://github.com/lenis03/lenis03/assets/126465887/ae3bda0c-365b-4c17-8cce-bdaaf485de68" alt="python" width="60" height="60"/>
-<img src="https://github.com/lenis03/lenis03/assets/126465887/1ee59c23-ca01-4711-95fa-45d1e1168b47" alt="django" width="60" height="60"/>
-<img src="https://github.com/lenis03/lenis03/assets/126465887/ccfc5f41-932b-407e-9e0b-78b817fefe52" alt="postgresql" width="60" height="60"/>
-<img src="https://github.com/lenis03/lenis03/assets/126465887/8021fe70-366f-4bf8-856a-6643ed0ea679" alt="mysql" width="60" height="60"/>
-<img src="https://github.com/lenis03/lenis03/assets/126465887/8a0e3714-9aa7-43fa-9aff-59cb8f5173c6" alt="linux" width="60" height="60"/><br>
-<img src="https://github.com/lenis03/lenis03/assets/126465887/28d7ced8-2392-4621-be3e-dc841156823f" alt="git" width="60" height="60"/>
-<img src="https://github.com/lenis03/lenis03/assets/126465887/3e9ce004-f950-4549-bb6b-3fadbc05533a" alt="ducker" width="60" height="60"/>
-<img src="https://github.com/lenis03/lenis03/assets/126465887/826ab259-a26a-4ac2-8906-71f61db7a211" alt="html" width="60" height="60"/>
-<img src="https://github.com/lenis03/lenis03/assets/126465887/84d77dff-7ee0-41ee-b9aa-62c668f7cdd2" alt="css" width="60" height="60"/>
-<img src="https://github.com/lenis03/lenis03/assets/126465887/8ef75c6a-a453-46d2-a20d-d62c18c07892" alt="bootstrap" width="60" height="60"/>
+<img src="https://github.com/lenis03/lenis03/assets/126465887/31513020-5cdd-46ab-91fb-a5aa453328de" alt="python" width="60" height="60"/>
+<img src="https://github.com/lenis03/lenis03/assets/126465887/becb6286-99d3-4fa3-8f80-e9c73b573cec" alt="django" width="60" height="60"/>
+<img src="https://github.com/lenis03/lenis03/assets/126465887/191c5195-8137-4aec-9783-2c8ad2961998" alt="postgresql" width="60" height="60"/>
+<img src="https://github.com/lenis03/lenis03/assets/126465887/7f5cdca8-bc09-4fc5-b1a2-f0f011fc531b" alt="mysql" width="60" height="60"/>
+<img src="https://github.com/lenis03/lenis03/assets/126465887/6553749e-2a8d-41a7-8873-6239e6c27f4a" alt="linux" width="60" height="60"/></br>
+<img src="https://github.com/lenis03/lenis03/assets/126465887/d3d2560b-667b-44ac-bcf1-f746fea5433c" alt="git" width="60" height="60"/>
+<img src="https://github.com/lenis03/lenis03/assets/126465887/8625729f-3db0-4344-b1f1-8e2cdb688220" alt="ducker" width="60" height="60"/>
+<img src="https://github.com/lenis03/lenis03/assets/126465887/87bee43b-8f23-4c26-af09-0fbe74b1ddfd" alt="html" width="60" height="60"/>
+<img src="https://github.com/lenis03/lenis03/assets/126465887/e252b209-b912-47c5-b57a-e7f8f6f22f29" alt="css" width="60" height="60"/>
+<img src="https://github.com/lenis03/lenis03/assets/126465887/9f68b074-6834-499b-8362-ff8be6e07af9" alt="bootstrap" width="60" height="60"/>
 
 # 📊 GitHub Stats :
 
