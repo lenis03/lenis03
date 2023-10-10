@@ -27,7 +27,7 @@
 <img src="https://github.com/lenis03/lenis03/assets/126465887/e252b209-b912-47c5-b57a-e7f8f6f22f29" alt="css" width="60" height="60"/>
 <img src="https://github.com/lenis03/lenis03/assets/126465887/9f68b074-6834-499b-8362-ff8be6e07af9" alt="bootstrap" width="60" height="60"/>
 
-# 📊 GitHub Stats :
+## 📊 GitHub Stats :
 
 ![](https://github-readme-stats.vercel.app/api?username=lenis03&theme=midnight-purple&hide_border=true&center=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lenis03&theme=midnight-purple&center=true&hide_border=true)
