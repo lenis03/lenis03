@@ -29,10 +29,10 @@
 
 ## 📊 GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=lenis03&theme=midnight-purple&hide_border=true&center=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=lenis03&theme=midnight-purple&hide_border=true&center=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lenis03&theme=midnight-purple&center=true&hide_border=true)
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lenis03&theme=midnight-purple&center=true&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lenis03&theme=midnight-purple&center=true&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## 🏆 GitHub Trophies
@@ -45,9 +45,3 @@
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=821FF7&height=120&section=footer"/>
 </a>
-
-
-
-
-
-
